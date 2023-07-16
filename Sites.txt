@@ -1,0 +1,77 @@
+﻿https://www.clarin.com,,El Clarin,Argentina
+https://www.lanacion.com,,La Nacion,Argentina
+https://www.pagina12.com.ar,,Pagina 12,Argentina
+https://www.perfil.com,,Diario Perfil,Argentina
+https://tn.com.ar,,TN,Argentina
+https://www.c5n.com,,c5N,Argentina
+https://www.cronica.com.ar,,Cronica,Argentina
+https://www.infobae.com,,Infobae,Argentina
+https://elpais.com,,El Pais,España
+https://www.abc.es,,ABC,España
+https://www.elmundo.es,,El Mundo,España
+https://www.eldiario.es,,El Diario,España
+https://www.latercera.com,,La Tercera,Chile
+https://www.elmostrador.cl,,El Mostrador,Chile
+https://digital.elmercurio.com,,El Mercurio,Chile
+https://www.emol.com,,Emol,Chile
+https://www.lanacion.cl,,La Nacion,Chile
+https://www.diariodemexico.com,,Diario,Mexico
+https://www.eluniversal.com.mx,,El Universal,Mexico
+https://elpais.com/,mexico/,El Pais,Mexico
+https://www.milenio.com,,El Milenio,Mexico
+https://www.jornada.com.mx,,Jornada,Mexico
+https://www.eltiempo.com,,El Tiempo,Colombia
+https://www.elespectador.com,,El Espectador,Colombia
+https://www.elcolombiano.com,,El Colombiano,Colombia
+https://www.elpais.com.co,,El Pais,Colombia
+https://www.lavanguardia.com,,La Vanguardia,Catalunya
+https://www.elperiodico.com/es/,,El Periodico,Catalunya
+https://www.eldiario.es/,catalunya/,El Diario,Catalunya
+https://www.dw.com/,es/,DW en español,Alemania
+https://www.bbc.com/,mundo,BBC en español,Reino Unido
+https://www.nytimes.com/,es/,New York Times en español,EEUU
+https://cnnespanol.cnn.com,,CNN en español,EEUU
+https://elcomercio.pe,,El Comercio,Peru
+https://elperuano.pe,,El Peruano,Peru
+https://diarioelsalvador.com,,Diario,El Salvador
+https://www.prensa.com,,Prensa,Panama
+https://www.laestrella.com.pa,,La Estrella,Panama
+https://www.elpais.com.uy,,El Pais,Uruguay
+https://ladiaria.com.uy,,La Diaria,Uruguay
+https://www.prensalibre.com,,Prensa Libre,Guatemala
+https://elperiodico.com.gt,,El Periodico,Guatemala
+https://www.nacion.com,,Nacion,Costa Rica
+https://www.diarioextra.com,,Diario Extra,Costa Rica
+https://www.larepublica.net,,La Republica,Costa Rica
+https://www.lateja.cr,,La Teja,Costa Rica
+https://elmundo.cr,,El Mundo,Costa Rica
+https://www.abc.com.py,,ABC,Paraguay
+https://www.hoy.com.py,,Hoy,Paraguay
+https://www.lanacion.com.py,,La Nacion,Paraguay
+https://www.eluniverso.com,,El Universo,Ecuador
+https://www.elcomercio.com,,El Comercion,Ecuador
+https://www.lahora.com.ec,,La Hora,Ecuador
+https://www.elnuevodia.com,,EL Nuevo Dia,Puerto Rico
+https://www.primerahora.com,,Primera Hora,Puerto Rico
+https://www.elvocero.com,,El Vocero, Puerto Rico
+https://diariodepuertorico.com,,Diario de Puerto Rico,Puerto Rico
+https://www.gov.br/,mre/es/canales_servicio/prensa/notas-a-la-prensa,Ministerio de RREE,Brasil
+https://www.gob.pe/,institucion/rree/noticias,Ministerio de RREE,Peru
+https://www.exteriores.gob.es/,es/Comunicacion/Comunicados/Paginas/index.aspx,Ministerio de RREE,España
+https://www.cancilleria.gob.ar/,es/actualidad,Cancilleria,Argentina
+https://www.gub.uy/,ministerio-relaciones-exteriores/comunicacion/comunicados,Ministerio de RREE,Uruguay
+https://www.cancilleria.gov.co/,newsroom/publiques,Cancilleria,Colombia
+https://mire.gob.pa/,noticias/,Ministerio de RREE,Panama
+https://spanien.diplo.de/,es-es/aktuelles,Ministerio de RREE,Alemania
+https://www.mre.gov.py/,index.php/galeria/comunicados,Ministerio de RREE,Paraguay
+https://www.minrel.gob.cl/,minrel/site/tax/port/all/taxport_4___1.html,Ministerio de RREE,Chile
+https://cancilleria.gob.bo/,webmre/comunicados,Ministerio de RREE,Bolivia
+https://mirex.gob.do/,noticias/,Ministerio de RREE,Republica Dominicana
+https://sreci.hn/,comunicados-generales,Ministerio de RREE,Honduras
+https://sreci.hn/,news,Ministerio de RREE,Honduras
+https://www.minex.gob.gt/,Noticias/NoticiasxTemas.aspx?cTema=15,Ministerio de RREE,Guatemala
+https://www.rree.go.cr/,?sec=servicios&cat=prensa,Ministerio de RREE,Costa Rica
+https://rree.gob.sv/,category/noticias/,Ministerio de RREE,El Salvador
+https://www.voxespana.es,,Partido Vox,España
+https://www.voxespana.es/,notas-de-prensa,Partido Vox,España
+https://www.consilium.europa.eu/,es/press/press-releases/, Union Europea, Europa
